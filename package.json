@@ -1,0 +1,11 @@
+{
+  "name": "pro",
+  "version": "1.0.0",
+  "description": "secproject",
+  "main": "index.js",
+  "scripts": {
+ 
+  },
+  "author": "",
+  "license": "ISC"
+}
